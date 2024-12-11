@@ -1,0 +1,25 @@
+---
+layout: "layouts/start.njk"
+title: "Adam Dj Brett"
+description: "Adam Dj Brett Description"
+image: "/img/potos.jpg"
+text: "Your short description of who you are"
+link_list:
+ - name: "Adam Dj Brett Official Site"
+   url: "https://adamdjbrett.com"
+ - name: "Podcast Doctrine of Discovery"
+   url: "https://adamdjbrett.com"
+ - name: "My art website"
+   url: "https://adamdjbrett.com"
+ - name: "My Cinematic Website"
+   url: "https://adamdjbrett.com"
+ - name: "My Music Website"
+   url: "https://adamdjbrett.com"
+ - name: "My Documentation Site"
+   url: "https://adamdjbrett.com"
+ - name: "My Portfolio Website"
+   url: "https://adamdjbrett.com"
+ - name: "My Project and Work Website"
+   url: "https://adamdjbrett.com"
+---
+

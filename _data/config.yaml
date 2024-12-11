@@ -1,0 +1,30 @@
+navbar_title: Adam Dj Brett
+
+navbar:
+ - nav: About
+   link: /about
+
+footer: 
+ - icon: fa-brands fa-github
+   link: https://github.com/adamdjbrett
+   title: Follow Adam Dj Brett on Github
+ - icon: fa-brands fa-facebook
+   link: https://github.com/adamdjbrett
+   title: Follow Adam Dj Brett on Facebook
+ - icon: fa-brands fa-instagram
+   link: https://github.com/adamdjbrett
+   title: Follow Adam Dj Brett on Instagram
+ - icon: fa-brands fa-youtube
+   link: https://github.com/adamdjbrett
+   title: Follow Adam Dj Brett on Youtube
+ - icon: fa-brands fa-discord
+   link: https://github.com/adamdjbrett
+   title: Follow Adam Dj Brett on Discord
+
+copyrights:
+ text1: Copyrights by
+ text2: Adam Dj Brett
+ text2_link: https://adamdjbrett.com
+ text3: built with
+ text4: 11ty
+ text4_link: https://11ty.dev

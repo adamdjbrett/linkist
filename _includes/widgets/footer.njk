@@ -1,0 +1,4 @@
+<footer class="col-md-8 mt-1 mx-auto p-3 text-center">
+{% for s in config.footer %}<a href="{{s.link}}" title="{{s.title}}" class="text-secondary ms-3 me-3 icon-link">
+<i class="{{s.icon}} fa-2x"></i></a>{% endfor %}
+</footer>

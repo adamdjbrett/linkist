@@ -1,0 +1,5 @@
+<main class="row text-center mt-1">
+{% for l in link_list %}<div class="p-1 col-md-10 mx-auto mb-1 mt-1">
+<a href="{{l.url}}" title="{{l.name}}" class="btn btn-glass col-md-9 mx-auto col-12 p-3 text-white">{{l.name}}</a>
+</div>{% endfor %}
+</main>
