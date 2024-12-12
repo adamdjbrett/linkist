@@ -4,6 +4,8 @@ Developer : [Adam Dj Brett](https://adamdjbrett.com)
 
 For Link Lists
 
+WSRV Image CDN Version
+
 ![Adam Dj Brett Link Lists](mobile.png)
 
 ### First Setup
@@ -26,4 +28,7 @@ example: `fa-solid fa-envelope`
 
 To update link list , open `content/index.md`
 
+### Wsrv image
+
+This project is use cdn image for optimazation, if you want 11ty image you can visit our other project - [aila projects](https://github.com/adamdjbrett/aila-social)
 
