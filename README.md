@@ -4,8 +4,6 @@ Developer : [Adam Dj Brett](https://adamdjbrett.com)
 
 For Link Lists
 
-------
-
 ### First Setup
 
 Open `_data/metadata.js`
@@ -19,6 +17,8 @@ To setup your navbar menu and icon on footer , you can open `_data/config.yaml`
 Use fontawesome icon - https://fontawesome.com/search
 
 copy paste icon in to icon menu.
+
+example: `fa-solid fa-envelope`
 
 ### Link Lists
 
