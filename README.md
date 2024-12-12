@@ -6,6 +6,12 @@ For Link Lists
 
 WSRV Image CDN Version
 
+Mobile Test
+
+![Adam Dj Brett Link Lists](mobile.png)
+
+Desktop Test
+
 ![Adam Dj Brett Link Lists](mobile.png)
 
 ### First Setup
