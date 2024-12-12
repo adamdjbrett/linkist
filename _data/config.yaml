@@ -1,25 +1,28 @@
-navbar_title: Adam Dj Brett
-
+navbar_title: American Indian Law Alliance
+image: /img/aila-cover.png
 navbar:
  - nav: About
    link: /about
 
 footer: 
- - icon: fa-brands fa-github
-   link: https://github.com/adamdjbrett
-   title: Follow Adam Dj Brett on Github
  - icon: fa-brands fa-facebook
-   link: https://github.com/adamdjbrett
-   title: Follow Adam Dj Brett on Facebook
+   link: https://facebook.com/americanindianlawalliance
+   title: Follow American Indian Law Alliance on Facebook
  - icon: fa-brands fa-instagram
+   link: https://www.instagram.com/americanindianlawalliance/
+   title: Follow American Indian Law Alliance on Instagram
+ - icon: fa-brands fa-linkedin
+   link: https://www.linkedin.com/company/american-indian-law-alliance/
+   title: Follow American Indian Law Alliance on LinkedIn
+ - icon: fa-brands fa-twitter
    link: https://github.com/adamdjbrett
-   title: Follow Adam Dj Brett on Instagram
- - icon: fa-brands fa-youtube
-   link: https://github.com/adamdjbrett
-   title: Follow Adam Dj Brett on Youtube
- - icon: fa-brands fa-discord
-   link: https://github.com/adamdjbrett
-   title: Follow Adam Dj Brett on Discord
+   title: Follow American Indian Law Alliance on Youtube
+ - icon: fa-solid fa-globe
+   link: https://aila.ngo
+   title: American Indian Law Alliance official site
+ - icon: fa-solid fa-envelope
+   link: "mailto:aila@aila.ngo"
+   title: Sent Email to American Indian Law Alliance
 
 copyrights:
  text1: Copyrights by

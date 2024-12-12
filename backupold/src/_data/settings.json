@@ -1,0 +1,39 @@
+{
+  "metaTitle": "American Indian Law Alliance - Social Media",
+  "metaDescription": "The American Indian Law Alliance (AILA) is an Indigenous NGO that works with Indigenous nations, communities, and organizations in our struggle for sovereignty, human rights, and social justice for our peoples.",
+  "logoTitle": "American Indian Law Alliance",
+  "heroImage": "/assets/images/aila-cover.png",
+  "heroCaption": "American Indian Law Alliance: An NGO in consultative status with the United Nations Economic & Social Council (ECOSOC)",
+  "social": {
+    "dev": "",
+    "dribbble": "",
+    "facebook": "https://facebook.com/americanindianlawalliance",
+    "github": "",
+    "instagram": "https://www.instagram.com/americanindianlawalliance/",
+    "linkedin": "https://www.linkedin.com/company/american-indian-law-alliance/",
+    "pinterest": "",
+    "twitter": "https://twitter.com/AILAnyc",
+    "youtube": "",
+    "website": "https://aila.ngo",
+    "email": "aila@aila.ngo"
+  },
+  "stats": {
+    "google": "",
+    "fathom": ""
+  },
+  "colors": {
+    "background": "",
+    "bodyText": "",
+    "navBar": "",
+    "navText": "",
+    "navTextHover": "",
+    "navTextBackgroundHover": "",
+    "heroCaption": "",
+    "btnBackground": "",
+    "btnBorder": "",
+    "btnHover": "",
+    "btnLink": "",
+    "svgColor": "",
+    "svgHover": ""
+  }
+}

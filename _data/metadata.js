@@ -1,14 +1,15 @@
 export default {
-	title: "Adam DJ Brett Portfolio",
-	url: "https://adamdjbrett.com/",
+	title: "American Indian Law Alliance - Social Media",
+	url: "https://aila.social",
+	favicon: "/img/apple-touch-icon.png",
 	language: "en",
 	locale: "en_US",
-	description: "Link list for Adam Dj Brett",
+	description: "The American Indian Law Alliance (AILA) is an Indigenous NGO that works with Indigenous nations, communities, and organizations in our struggle for sovereignty, human rights, and social justice for our peoples.",
 	metasocial: {
 		image: "/img/potos.jpg",
-		facebook: "https://facebook.com/adamdjbrett",
-		twitteruser: "@adjb",
-		twitter: "https://x.com/adamdjbrett"
+		facebook: "https://facebook.com/americanindianlawalliance",
+		twitteruser: "@AILAnyc",
+		twitter: "https://twitter.com/AILAnyc"
 	},
 	author: {
 		name: "Adam Dj Brett",
