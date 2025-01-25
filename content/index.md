@@ -1,9 +1,9 @@
 ---
 layout: "layouts/start.njk"
-title: "American Indian Law Alliance"
-description: "The American Indian Law Alliance (AILA) is an Indigenous NGO that works with Indigenous nations, communities, and organizations in our struggle for sovereignty, human rights, and social justice for our peoples."
-image: "/img/aila-cover.png"
-text: "American Indian Law Alliance: An NGO in consultative status with the United Nations Economic & Social Council (ECOSOC)"
+title: "My Page"
+description: "The My Page (AILA) is an Indigenous NGO that works with Indigenous nations, communities, and organizations in our struggle for sovereignty, human rights, and social justice for our peoples."
+image: "/img/markus-spiske-cvBBO4PzWPg-unsplash.jpg"
+text: "My Page: An NGO in consultative status with the United Nations Economic & Social Council (ECOSOC)"
 link_list:
  - name: "AILA Event Photo Galleries"
    url: "https://photo.aila.ngo/"

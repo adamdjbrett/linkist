@@ -65,11 +65,11 @@ eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
 		},
 		metadata: {
 			language: "en",
-			title: "Adam Dj Brett Link",
-			subtitle: "Link list for Adam Dj Brett.",
+			title: "Adam DJ Brett Link",
+			subtitle: "Link list for Adam DJ Brett.",
 			base: "https://adamdjbrett.com/",
 			author: {
-				name: "Adam Dj Brett"
+				name: "Adam DJ Brett"
 			}
 		}
 	});

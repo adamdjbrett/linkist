@@ -1,32 +1,32 @@
-navbar_title: American Indian Law Alliance
-image: /img/aila-cover.png
+navbar_title: My Page
+image: /img/markus-spiske-cvBBO4PzWPg-unsplash.jpg
 navbar:
  - nav: About
    link: /about
 
 footer: 
  - icon: fa-brands fa-facebook
-   link: https://facebook.com/americanindianlawalliance
-   title: Follow American Indian Law Alliance on Facebook
+   link: https://facebook.com/
+   title: Follow My Page on Facebook
  - icon: fa-brands fa-instagram
-   link: https://www.instagram.com/americanindianlawalliance/
-   title: Follow American Indian Law Alliance on Instagram
+   link: https://www.instagram.com//
+   title: Follow My Page on Instagram
  - icon: fa-brands fa-linkedin
-   link: https://www.linkedin.com/company/american-indian-law-alliance/
-   title: Follow American Indian Law Alliance on LinkedIn
- - icon: fa-brands fa-twitter
-   link: https://github.com/adamdjbrett
-   title: Follow American Indian Law Alliance on Youtube
+   link: https://www.linkedin.com//
+   title: Follow My Page on LinkedIn
+ - icon: fa-brands fa-github
+   link: https://github.com/
+   title: Follow My Page on Youtube
  - icon: fa-solid fa-globe
-   link: https://aila.ngo
-   title: American Indian Law Alliance official site
+   link: https://example.com
+   title: My Page official site
  - icon: fa-solid fa-envelope
-   link: "mailto:aila@aila.ngo"
-   title: Sent Email to American Indian Law Alliance
+   link: "mailto:hello@example.com"
+   title: Sent Email to My Page
 
 copyrights:
- text1: Copyrights by
- text2: Adam Dj Brett
+ text1: CC BY-NC-SA 4.0 by
+ text2: Adam DJ Brett
  text2_link: https://adamdjbrett.com
  text3: built with
  text4: 11ty
