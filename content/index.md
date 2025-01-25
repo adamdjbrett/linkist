@@ -1,10 +1,12 @@
 ---
 layout: "layouts/start.njk"
 title: "My Page"
-description: "The My Page (AILA) is an Indigenous NGO that works with Indigenous nations, communities, and organizations in our struggle for sovereignty, human rights, and social justice for our peoples."
+description: "My Page Description"
 image: "/img/markus-spiske-cvBBO4PzWPg-unsplash.jpg"
-text: "My Page: An NGO in consultative status with the United Nations Economic & Social Council (ECOSOC)"
+text: "My Page: text"
 link_list:
+ - name: "Social Media Theme"
+   url: https://github.com/adamdjbrett/linkist
  - name: "AILA Event Photo Galleries"
    url: "https://photo.aila.ngo/"
  - name: "Statement from the Global Indigenous Women’s Caucus GIWC 2024"
